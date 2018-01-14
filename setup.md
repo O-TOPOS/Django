@@ -39,4 +39,10 @@ Assuming you are still inside your
 Django project directive you can create a 
 new app by ```django-admin startapp map_viewer```
 
+#### Templates
+```
+mkdir templates
+mkdir static
+```
+Make a new HTML file in templates and write some text in it.
 
